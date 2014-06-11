@@ -1,0 +1,23 @@
+Guess the word, win the prize!
+
+Pretend this is a person:
+
+|-------------|
+|             |
+|
+|
+|
+|
+|
+|
+--------------------------
+
+_ _ _ _ _ _ _ _ _ _
+
+Katharine's guessed letters:
+
+- 
+
+
+
+
