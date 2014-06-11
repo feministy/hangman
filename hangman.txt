@@ -12,7 +12,7 @@ Pretend this is a person:
 |
 --------------------------
 
-_ _ _ _ _ _ _ _ _ _
+_ _ _ _ _ _ R _ _ _
 
 Katharine's guessed letters:
 R
