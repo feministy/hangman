@@ -5,7 +5,7 @@ Pretend this is a person:
 |-------------|
 |             |
 |             O
-|
+|	      |
 |
 |
 |
@@ -18,13 +18,13 @@ Katharine's guessed letters:
 
 Correct:
 
-R S A O
+R S A
 
 ——
 
 Incorrect:
 
-E 
+E O
 
 
 
