@@ -18,13 +18,13 @@ Katharine's guessed letters:
 
 Correct:
 
-R S A T I H
+R S A T I C
 
 ——
 
 Incorrect:
 
-E O
+E O H
 
 
 
